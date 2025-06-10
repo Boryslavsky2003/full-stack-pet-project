@@ -1,6 +1,6 @@
 # full-stack-pet-project
 
-ngmessage:
+Name: ngmessage
 
 backend - FastAPI\Python
 
